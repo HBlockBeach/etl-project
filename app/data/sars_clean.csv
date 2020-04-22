@@ -1,0 +1,398 @@
+Week,Country,Cases,Deaths
+1,Canada,62,15
+1,China,1226,36
+1,France,1,0
+1,Germany,12,0
+1,Italy,5,0
+1,Republic of Ireland,3,0
+1,Singapore,256,0
+1,Slovenia,5,0
+1,Spain,5,0
+1,Switzerland,25,0
+1,Taiwan,28,0
+1,Thailand,17,0
+1,United Kingdom,11,0
+1,United States,94,0
+1,Vietnam,398,14
+2,Australia,1,0
+2,Belgium,1,0
+2,Canada,221,23
+2,China,7901,280
+2,France,7,0
+2,Germany,30,0
+2,Italy,16,0
+2,Republic of Ireland,13,0
+2,Romania,15,0
+2,Singapore,579,12
+2,Switzerland,17,0
+2,Taiwan,61,0
+2,Thailand,28,3
+2,United Kingdom,21,0
+2,United States,362,0
+2,Vietnam,406,28
+3,Australia,6,0
+3,Belgium,4,0
+3,Brazil,6,0
+3,Canada,538,55
+3,China,14431,494
+3,France,21,0
+3,Germany,35,0
+3,Italy,21,0
+3,Malaysia,4,4
+3,Republic of Ireland,8,0
+3,Romania,9,0
+3,Singapore,731,42
+3,Spain,6,0
+3,Switzerland,10,0
+3,Taiwan,118,0
+3,Thailand,49,14
+3,United Kingdom,28,0
+3,United States,810,0
+3,Vietnam,421,28
+4,Australia,3,0
+4,Brazil,14,0
+4,Canada,725,81
+4,China,17847,758
+4,France,34,0
+4,Germany,42,0
+4,India,1,0
+4,Indonesia,4,0
+4,Italy,21,0
+4,Japan,12,0
+4,Kuwait,7,0
+4,Malaysia,29,7
+4,Mongolia,3,0
+4,Philippines,4,0
+4,Republic of Ireland,7,0
+4,Romania,7,0
+4,Singapore,1055,80
+4,South Africa,6,0
+4,Spain,7,0
+4,Sweden,4,0
+4,Switzerland,7,0
+4,Taiwan,163,0
+4,Thailand,54,14
+4,United Kingdom,40,0
+4,United States,1245,0
+4,Vietnam,376,28
+5,Australia,16,0
+5,Brazil,14,0
+5,Bulgaria,2,0
+5,Canada,955,92
+5,China,24320,1323
+5,France,35,0
+5,Germany,46,0
+5,India,7,0
+5,Indonesia,7,0
+5,Italy,23,0
+5,Japan,21,0
+5,Kuwait,7,0
+5,Malaysia,37,10
+5,Mongolia,21,0
+5,Philippines,12,5
+5,Republic of Ireland,7,0
+5,Romania,7,0
+5,Singapore,1294,119
+5,South Africa,7,0
+5,Spain,7,0
+5,Sweden,21,0
+5,Switzerland,7,0
+5,Taiwan,231,0
+5,Thailand,51,14
+5,United Kingdom,42,0
+5,United States,632,0
+5,Vietnam,441,35
+6,Brazil,14,0
+6,Bulgaria,7,0
+6,Canada,1023,140
+6,China,34919,2178
+6,France,35,0
+6,Germany,49,0
+6,India,3,0
+6,Indonesia,11,0
+6,Italy,57,0
+6,Japan,10,0
+6,Kuwait,7,0
+6,Malaysia,41,14
+6,Mongolia,43,0
+6,New Zealand,2,0
+6,Philippines,26,14
+6,Poland,3,0
+6,Republic of Ireland,7,0
+6,Republic of Korea,5,0
+6,Romania,7,0
+6,Singapore,1406,167
+6,South Africa,7,0
+6,Spain,7,0
+6,Sweden,21,0
+6,Switzerland,7,0
+6,Taiwan,548,20
+6,Thailand,49,14
+6,United Kingdom,42,0
+6,United States,339,0
+6,Vietnam,441,35
+7,Brazil,14,0
+7,Bulgaria,7,0
+7,Canada,1021,154
+7,China,44278,3012
+7,Colombia,6,0
+7,Finland,4,0
+7,France,42,0
+7,Germany,57,0
+7,India,6,0
+7,Indonesia,14,0
+7,Italy,63,0
+7,Kuwait,7,0
+7,Malaysia,48,14
+7,Mongolia,61,0
+7,New Zealand,7,0
+7,Philippines,56,14
+7,Poland,7,0
+7,Republic of Ireland,7,0
+7,Republic of Korea,8,0
+7,Romania,7,0
+7,Singapore,1430,189
+7,South Africa,7,7
+7,Spain,7,0
+7,Sweden,21,0
+7,Switzerland,7,0
+7,Taiwan,993,93
+7,Thailand,49,14
+7,United Kingdom,42,0
+7,United States,445,0
+7,Vietnam,441,35
+8,Brazil,14,0
+8,Bulgaria,4,0
+8,Canada,988,160
+8,China,48202,3611
+8,Colombia,7,0
+8,Finland,7,0
+8,France,49,0
+8,Germany,63,0
+8,India,21,0
+8,Indonesia,14,0
+8,Italy,63,0
+8,Kuwait,7,0
+8,Malaysia,49,14
+8,Mongolia,63,0
+8,New Zealand,7,0
+8,Philippines,80,14
+8,Republic of Ireland,7,0
+8,Republic of Korea,20,0
+8,Romania,7,0
+8,Singapore,1437,196
+8,South Africa,7,7
+8,Spain,7,0
+8,Sweden,21,0
+8,Switzerland,7,0
+8,Taiwan,1984,246
+8,Thailand,55,14
+8,United Kingdom,28,0
+8,United States,457,0
+8,Vietnam,441,35
+9,Australia,12,0
+9,Brazil,14,0
+9,Canada,1005,170
+9,China,49161,4011
+9,Colombia,7,0
+9,Finland,7,0
+9,France,49,0
+9,Germany,63,0
+9,India,21,0
+9,Indonesia,14,0
+9,Italy,63,0
+9,Kuwait,7,0
+9,Malaysia,47,14
+9,Mongolia,63,0
+9,New Zealand,7,0
+9,Philippines,84,14
+9,Republic of Ireland,7,0
+9,Republic of Korea,21,0
+9,Romania,7,0
+9,Singapore,1442,212
+9,South Africa,7,7
+9,Spain,7,0
+9,Sweden,21,0
+9,Switzerland,7,0
+9,Taiwan,3768,461
+9,Thailand,56,14
+9,United Kingdom,28,0
+9,United States,457,0
+9,Vietnam,441,35
+10,Australia,6,0
+10,Brazil,14,0
+10,Canada,1343,207
+10,China,49499,4282
+10,Colombia,7,0
+10,Finland,7,0
+10,France,49,0
+10,Germany,68,0
+10,India,21,0
+10,Indonesia,14,0
+10,Italy,63,0
+10,Kuwait,7,0
+10,Malaysia,35,14
+10,Mongolia,63,0
+10,New Zealand,7,0
+10,Philippines,84,14
+10,Republic of Ireland,7,0
+10,Republic of Korea,21,0
+10,Romania,7,0
+10,Russia,5,0
+10,Singapore,1442,217
+10,South Africa,7,7
+10,Spain,7,0
+10,Sweden,21,0
+10,Switzerland,7,0
+10,Taiwan,4721,567
+10,Thailand,56,14
+10,United Kingdom,28,0
+10,United States,470,0
+10,Vietnam,441,35
+11,Brazil,16,0
+11,Canada,1387,191
+11,China,42496,3788
+11,Colombia,6,0
+11,Finland,6,0
+11,France,42,0
+11,Germany,60,0
+11,India,18,0
+11,Indonesia,12,0
+11,Italy,54,0
+11,Kuwait,6,0
+11,Malaysia,30,12
+11,Mongolia,54,0
+11,New Zealand,6,0
+11,Philippines,76,12
+11,Republic of Ireland,6,0
+11,Republic of Korea,18,0
+11,Romania,6,0
+11,Russia,6,0
+11,Singapore,1236,186
+11,South Africa,6,6
+11,Spain,6,0
+11,Sweden,18,0
+11,Switzerland,6,0
+11,Taiwan,4110,486
+11,Thailand,53,12
+11,United Kingdom,24,0
+11,United States,417,0
+11,Vietnam,378,30
+12,Brazil,18,0
+12,Canada,1472,200
+12,China,42492,3853
+12,Colombia,6,0
+12,Finland,6,0
+12,France,42,0
+12,Germany,60,0
+12,India,18,0
+12,Indonesia,12,0
+12,Italy,54,0
+12,Kuwait,6,0
+12,Malaysia,30,12
+12,Mongolia,54,0
+12,New Zealand,6,0
+12,Philippines,84,12
+12,Republic of Ireland,6,0
+12,Republic of Korea,18,0
+12,Romania,6,0
+12,Russia,6,0
+12,Singapore,1236,186
+12,South Africa,6,6
+12,Spain,6,0
+12,Sweden,18,0
+12,Switzerland,6,0
+12,Taiwan,4174,501
+12,Thailand,54,12
+12,United Kingdom,24,0
+12,United States,443,0
+12,Vietnam,378,30
+13,Australia,5,0
+13,Brazil,16,0
+13,Canada,1505,223
+13,China,42497,3868
+13,Colombia,6,0
+13,Finland,6,0
+13,France,42,0
+13,Germany,60,0
+13,India,18,0
+13,Indonesia,12,0
+13,Italy,42,0
+13,Japan,2,0
+13,Kuwait,6,0
+13,Malaysia,30,12
+13,Mongolia,54,0
+13,New Zealand,6,0
+13,Philippines,84,12
+13,Republic of Ireland,6,0
+13,Republic of Korea,18,0
+13,Romania,6,0
+13,Russia,6,0
+13,Singapore,1236,190
+13,South Africa,6,6
+13,Spain,6,0
+13,Sweden,18,0
+13,Switzerland,6,0
+13,Taiwan,4092,504
+13,Thailand,54,12
+13,United Kingdom,24,0
+13,United States,444,0
+13,Vietnam,378,30
+14,Brazil,6,0
+14,Canada,1504,228
+14,China,42498,3876
+14,Colombia,6,0
+14,Finland,6,0
+14,France,42,0
+14,Germany,60,0
+14,India,18,0
+14,Indonesia,12,0
+14,Italy,24,0
+14,Kuwait,6,0
+14,Malaysia,30,12
+14,Mongolia,54,0
+14,New Zealand,6,0
+14,Philippines,84,12
+14,Republic of Ireland,6,0
+14,Republic of Korea,18,0
+14,Romania,6,0
+14,Russia,6,0
+14,Singapore,1236,192
+14,South Africa,6,6
+14,Spain,6,0
+14,Sweden,18,0
+14,Switzerland,6,0
+14,Taiwan,4040,504
+14,Thailand,54,12
+14,United Kingdom,24,0
+14,United States,441,0
+14,Vietnam,378,30
+15,Brazil,2,0
+15,Canada,500,76
+15,China,14166,1292
+15,Colombia,2,0
+15,Finland,2,0
+15,France,14,1
+15,Germany,20,0
+15,India,6,0
+15,Indonesia,4,0
+15,Italy,8,0
+15,Kuwait,2,0
+15,Malaysia,10,4
+15,Mongolia,18,0
+15,New Zealand,2,0
+15,Philippines,28,4
+15,Republic of Ireland,2,0
+15,Republic of Korea,6,0
+15,Romania,2,0
+15,Russia,2,0
+15,Singapore,412,64
+15,South Africa,2,2
+15,Spain,2,0
+15,Sweden,6,0
+15,Switzerland,2,0
+15,Taiwan,1342,168
+15,Thailand,18,4
+15,United Kingdom,8,0
+15,United States,150,0
+15,Vietnam,126,10

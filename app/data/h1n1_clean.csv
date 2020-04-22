@@ -1,0 +1,437 @@
+Week,Country,Total Cases,Total Deaths
+1,Argentina,64,0.0
+1,Australia,233,0.0
+1,Austria,5,0.0
+1,Bahrain,2,0.0
+1,Belgium,36,0.0
+1,Brazil,45,0.0
+1,Canada,4484,6.0
+1,Chile,393,0.0
+1,China,98,0.0
+1,Colombia,74,0.0
+1,Costa Rica,147,5.0
+1,Cuba,20,0.0
+1,Czech Republic,1,0.0
+1,Denmark,5,0.0
+1,Dominican Republic,2,0.0
+1,Ecuador,102,0.0
+1,El Salvador,40,0.0
+1,Finland,11,0.0
+1,France,85,0.0
+1,Germany,87,0.0
+1,Grand Total,54377,377.0
+1,Greece,7,0.0
+1,Guatemala,22,0.0
+1,Honduras,4,0.0
+1,Iceland,4,0.0
+1,India,5,0.0
+1,Ireland,7,0.0
+1,Israel,43,0.0
+1,Italy,101,0.0
+1,Japan,1740,0.0
+1,"Korea, Republic of",81,0.0
+1,Kuwait,72,0.0
+1,Malaysia,10,0.0
+1,Mexico,21691,403.0
+1,Netherlands,15,0.0
+1,New Zealand,45,0.0
+1,Norway,20,0.0
+1,Panama,411,0.0
+1,Peru,115,0.0
+1,Philippines,12,0.0
+1,Poland,15,0.0
+1,Portugal,5,0.0
+1,Romania,3,0.0
+1,Russia,8,0.0
+1,Singapore,5,0.0
+1,Slovakia,1,0.0
+1,Spain,676,0.0
+1,Sweden,16,0.0
+1,Switzerland,15,0.0
+1,Thailand,10,0.0
+1,Turkey,10,0.0
+1,United Kingdom,716,0.0
+1,United States of America,34559,49.0
+1,Uruguay,2,0.0
+2,Argentina,580,0.0
+2,Australia,2725,0.0
+2,Austria,9,0.0
+2,Bahamas,4,0.0
+2,Bahrain,4,0.0
+2,Barbados,3,0.0
+2,Belgium,52,0.0
+2,Bolivia,12,0.0
+2,Brazil,101,0.0
+2,Bulgaria,4,0.0
+2,Canada,6776,10.0
+2,Chile,1343,2.0
+2,China,318,0.0
+2,Colombia,89,0.0
+2,Costa Rica,223,4.0
+2,Cuba,17,0.0
+2,Cyprus,4,0.0
+2,Czech Republic,6,0.0
+2,Denmark,13,0.0
+2,Dominica,1,0.0
+2,Dominican Republic,90,1.0
+2,Ecuador,181,0.0
+2,Egypt,3,0.0
+2,El Salvador,186,0.0
+2,Estonia,8,0.0
+2,Finland,15,0.0
+2,France,155,0.0
+2,Germany,162,0.0
+2,Grand Total,83911,496.0
+2,Greece,19,0.0
+2,Guatemala,79,0.0
+2,Honduras,72,0.0
+2,Hungary,8,0.0
+2,Iceland,4,0.0
+2,India,10,0.0
+2,Ireland,27,0.0
+2,Israel,145,0.0
+2,Italy,147,0.0
+2,Jamaica,10,0.0
+2,Japan,1575,0.0
+2,"Korea, Republic of",162,0.0
+2,Kuwait,72,0.0
+2,Lebanon,9,0.0
+2,Luxembourg,2,0.0
+2,Malaysia,11,0.0
+2,Mexico,21338,403.0
+2,Netherlands,21,0.0
+2,New Zealand,44,0.0
+2,Nicaragua,24,0.0
+2,Norway,26,0.0
+2,Panama,614,0.0
+2,Paraguay,20,0.0
+2,Peru,184,0.0
+2,Philippines,94,0.0
+2,Poland,17,0.0
+2,Portugal,7,0.0
+2,Romania,25,0.0
+2,Russia,12,0.0
+2,Saudi Arabia,2,0.0
+2,Singapore,41,0.0
+2,Slovakia,10,0.0
+2,Spain,867,0.0
+2,Sweden,38,0.0
+2,Switzerland,44,0.0
+2,Thailand,20,0.0
+2,Trinidad and Tobago,2,0.0
+2,Turkey,26,0.0
+2,United Arab Emirates,1,0.0
+2,United Kingdom,1554,0.0
+2,United States of America,43299,76.0
+2,Uruguay,58,0.0
+2,Venezuela,13,0.0
+2,Vietnam,16,0.0
+3,Argentina,1910,1.0
+3,Australia,7773,0.0
+3,Austria,33,0.0
+3,Bahamas,7,0.0
+3,Bahrain,16,0.0
+3,Barbados,14,0.0
+3,Belgium,78,0.0
+3,Bolivia,31,0.0
+3,Brazil,261,0.0
+3,Bulgaria,10,0.0
+3,Canada,14897,23.0
+3,Chile,9111,10.0
+3,China,1204,0.0
+3,Colombia,200,4.0
+3,Costa Rica,554,5.0
+3,Cuba,29,0.0
+3,Cyprus,5,0.0
+3,Czech Republic,18,0.0
+3,Denmark,56,0.0
+3,Dominica,5,0.0
+3,Dominican Republic,459,5.0
+3,Ecuador,360,0.0
+3,Egypt,72,0.0
+3,El Salvador,427,0.0
+3,Estonia,20,0.0
+3,Finland,28,0.0
+3,France,417,0.0
+3,Germany,633,0.0
+3,Grand Total,161728,760.0
+3,Greece,61,0.0
+3,Guatemala,441,3.0
+3,Honduras,456,0.0
+3,Hungary,19,0.0
+3,Iceland,17,0.0
+3,India,68,0.0
+3,Ireland,60,0.0
+3,Israel,468,0.0
+3,Italy,299,0.0
+3,Jamaica,51,0.0
+3,Japan,2823,0.0
+3,Jordan,2,0.0
+3,"Korea, Republic of",284,0.0
+3,Kuwait,90,0.0
+3,Lebanon,43,0.0
+3,Luxembourg,6,0.0
+3,Malaysia,37,0.0
+3,Mexico,30681,538.0
+3,Morocco,4,0.0
+3,Netherlands,217,0.0
+3,New Zealand,286,0.0
+3,Nicaragua,304,0.0
+3,Norway,61,0.0
+3,Panama,1207,0.0
+3,Paraguay,116,0.0
+3,Peru,410,0.0
+3,Philippines,478,0.0
+3,Poland,34,0.0
+3,Portugal,12,0.0
+3,Qatar,3,0.0
+3,Romania,60,0.0
+3,Russia,15,0.0
+3,Samoa,1,0.0
+3,Saudi Arabia,31,0.0
+3,Singapore,150,0.0
+3,Slovakia,15,0.0
+3,Spain,2163,0.0
+3,Sri Lanka,1,0.0
+3,Sweden,123,0.0
+3,Switzerland,105,0.0
+3,Thailand,363,0.0
+3,Trinidad and Tobago,18,0.0
+3,Turkey,56,0.0
+3,Ukraine,5,0.0
+3,United Arab Emirates,5,0.0
+3,United Kingdom,5012,1.0
+3,United States of America,57506,126.0
+3,United States of America*,17855,44.0
+3,Uruguay,156,0.0
+3,Venezuela,120,0.0
+3,Vietnam,106,0.0
+3,West Bank and Gaza Strip,4,0.0
+3,Yemen,1,0.0
+4,Algeria,5,0.0
+4,Antigua and Barbuda,4,0.0
+4,Argentina,4532,39.0
+4,Australia,10772,6.0
+4,Austria,41,0.0
+4,Bahamas,12,0.0
+4,Bahrain,57,0.0
+4,Bangladesh,3,0.0
+4,Barbados,23,0.0
+4,Belgium,114,0.0
+4,Bolivia,127,0.0
+4,Brazil,960,0.0
+4,Brunei Darussalam,16,0.0
+4,Bulgaria,16,0.0
+4,Cambodia,6,0.0
+4,Canada,23804,59.0
+4,Cap Verde,6,0.0
+4,Chile,16941,17.0
+4,China,3253,0.0
+4,Colombia,274,7.0
+4,Costa Rica,709,4.0
+4,Cote d'Ivoire,4,0.0
+4,Cuba,79,0.0
+4,Cyprus,19,0.0
+4,Czech Republic,28,0.0
+4,Denmark,120,0.0
+4,Dominica,4,0.0
+4,Dominican Republic,402,6.0
+4,Ecuador,421,0.0
+4,Egypt,151,0.0
+4,El Salvador,640,0.0
+4,Estonia,23,0.0
+4,Ethiopia,4,0.0
+4,Fiji,5,0.0
+4,Finland,78,0.0
+4,France,650,0.0
+4,Germany,1147,0.0
+4,Grand Total,212128,912.0
+4,Greece,210,0.0
+4,Guatemala,850,5.0
+4,Honduras,452,1.0
+4,Hungary,29,0.0
+4,Iceland,16,0.0
+4,India,202,0.0
+4,Indonesia,2,0.0
+4,Iran,1,0.0
+4,Ireland,91,0.0
+4,Israel,1290,0.0
+4,Italy,374,0.0
+4,Jamaica,71,0.0
+4,Japan,3482,0.0
+4,Jordan,45,0.0
+4,"Korea, Republic of",446,0.0
+4,Kuwait,100,0.0
+4,Laos,9,0.0
+4,Latvia,2,0.0
+4,Lebanon,74,0.0
+4,Luxembourg,11,0.0
+4,Malaysia,182,0.0
+4,Mexico,31374,457.0
+4,Montenegro,2,0.0
+4,Morocco,28,0.0
+4,Morocco *,6,0.0
+4,Netherlands,420,0.0
+4,New Zealand,1313,0.0
+4,Nicaragua,818,0.0
+4,Norway,78,0.0
+4,Oman,12,0.0
+4,Panama,1290,0.0
+4,Papua New Guinea,4,0.0
+4,Paraguay,212,0.0
+4,Peru,795,0.0
+4,Philippines,1545,2.0
+4,Poland,46,0.0
+4,Portugal,24,0.0
+4,Qatar,31,0.0
+4,Romania,74,0.0
+4,Russia,12,0.0
+4,Samoa,4,0.0
+4,Saudi Arabia,150,0.0
+4,Serbia,2,0.0
+4,Singapore,728,0.0
+4,Slovakia,17,0.0
+4,Slovenia,5,0.0
+4,South Africa,4,0.0
+4,Spain,2114,0.0
+4,Sri Lanka,17,0.0
+4,Suriname,44,0.0
+4,Sweden,207,0.0
+4,Switzerland,138,0.0
+4,Thailand,2655,0.0
+4,Trinidad and Tobago,86,0.0
+4,Tunisia,4,0.0
+4,Turkey,92,0.0
+4,Ukraine,4,0.0
+4,United Arab Emirates,13,0.0
+4,United Kingdom,10810,4.0
+4,United States of America,82202,305.0
+4,Uruguay,462,0.0
+4,Vanuatu,3,0.0
+4,Venezuela,419,0.0
+4,Vietnam,181,0.0
+4,West Bank and Gaza Strip,30,0.0
+4,Yemen,21,0.0
+5,Algeria,14,0.0
+5,Antigua and Barbuda,8,0.0
+5,Argentina,7147,135.0
+5,Australia,17994,33.0
+5,Austria,61,0.0
+5,Bahamas,23,0.0
+5,Bahrain,60,0.0
+5,Bangladesh,32,0.0
+5,Barbados,44,0.0
+5,Belgium,193,0.0
+5,Bolivia,1030,0.0
+5,Bosnia and Hezegovina,2,0.0
+5,Brazil,2606,3.0
+5,Brunei Darussalam,267,0.0
+5,Bulgaria,37,0.0
+5,Cambodia,26,0.0
+5,Canada,31724,96.0
+5,Cap Verde,12,0.0
+5,Chile,26149,47.0
+5,China,6814,0.0
+5,Colombia,400,8.0
+5,Cook Island,1,0.0
+5,Costa Rica,811,6.0
+5,Costa Rica*,227,2.0
+5,Cote d'Ivoire,8,0.0
+5,Croatia,1,0.0
+5,Cuba,238,0.0
+5,Cyprus,252,0.0
+5,Czech Republic,48,0.0
+5,Denmark,228,0.0
+5,Dominica,4,0.0
+5,Dominican Republic,432,8.0
+5,Ecuador,655,0.0
+5,Egypt,262,0.0
+5,El Salvador,1024,0.0
+5,Estonia,52,0.0
+5,Ethiopia,10,0.0
+5,Fiji,8,0.0
+5,Finland,142,0.0
+5,France,1169,0.0
+5,Germany,1758,0.0
+5,Grand Total,261634,1143.0
+5,Greece,438,0.0
+5,Guatemala,1048,8.0
+5,Guyana,2,0.0
+5,Honduras,482,4.0
+5,Hungary,40,0.0
+5,Iceland,16,0.0
+5,India,401,0.0
+5,Indonesia,44,0.0
+5,Iran,3,0.0
+5,"Iran, Islamic Republic",1,0.0
+5,Iraq,44,0.0
+5,Ireland,205,0.0
+5,Israel,2233,0.0
+5,Italy,511,0.0
+5,Jamaica,117,0.0
+5,Japan,5714,0.0
+5,Jordan,83,0.0
+5,Kenya,28,0.0
+5,"Korea, Republic of",808,0.0
+5,Kuwait,134,0.0
+5,Laos,14,0.0
+5,Latvia,4,0.0
+5,Lebanon,160,0.0
+5,Libya,1,0.0
+5,Lithuania,8,0.0
+5,Luxembourg,18,0.0
+5,Malaysia,448,0.0
+5,Malta,26,0.0
+5,Mauritius,9,0.0
+5,Mexico,37483,470.0
+5,Monaco,1,0.0
+5,Montenegro,24,0.0
+5,Morocco,62,0.0
+5,Myanmar,3,0.0
+5,Nepal,16,0.0
+5,Netherlands,573,0.0
+5,New Zealand,3269,3.0
+5,Nicaragua,1199,0.0
+5,Norway,145,0.0
+5,Oman,13,0.0
+5,Palau,2,0.0
+5,Panama,1654,0.0
+5,Papua New Guinea,4,0.0
+5,Paraguay,390,1.0
+5,Peru,2352,0.0
+5,Philippines,5140,4.0
+5,Poland,73,0.0
+5,Portugal,97,0.0
+5,Qatar,53,0.0
+5,Romania,129,0.0
+5,Russia,12,0.0
+5,Saint Lucia,3,0.0
+5,Samoa,4,0.0
+5,Saudi Arabia,353,0.0
+5,Serbia,47,0.0
+5,Singapore,3233,0.0
+5,Slovakia,58,0.0
+5,Slovenia,27,0.0
+5,South Africa,32,0.0
+5,Spain,2794,3.0
+5,Sri Lanka,60,0.0
+5,Suriname,44,0.0
+5,Sweden,294,0.0
+5,Switzerland,253,0.0
+5,Syria,1,0.0
+5,Thailand,5678,13.0
+5,The former Yugoslav Republic of Macedonia,2,0.0
+5,Trinidad and Tobago,224,0.0
+5,Tunisia,13,0.0
+5,Turkey,139,0.0
+5,Uganda,2,0.0
+5,Ukraine,4,0.0
+5,United Arab Emirates,32,0.0
+5,United Kingdom,25800,10.0
+5,United States of America,123257,594.0
+5,Uruguay,780,6.0
+5,Vanuatu,8,0.0
+5,Venezuela,775,0.0
+5,Vietnam,519,0.0
+5,West Bank and Gaza Strip,112,0.0
+5,Yemen,28,0.0
