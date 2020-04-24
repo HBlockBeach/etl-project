@@ -1,3 +1,7 @@
+body {
+    background-color: rgb(46, 47, 63);
+}
+
 .jumbotron {
     position:relative;
     overflow:hidden;
