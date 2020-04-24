@@ -201,8 +201,7 @@ Week,Country,Total Cases,Total Deaths
 3,Ukraine,5,0.0
 3,United Arab Emirates,5,0.0
 3,United Kingdom,5012,1.0
-3,United States,57506,126.0
-3,United States of America*,17855,44.0
+3,United States,75361,170.0
 3,Uruguay,156,0.0
 3,Venezuela,120,0.0
 3,Vietnam,106,0.0
@@ -268,8 +267,7 @@ Week,Country,Total Cases,Total Deaths
 4,Malaysia,182,0.0
 4,Mexico,31374,457.0
 4,Montenegro,2,0.0
-4,Morocco,28,0.0
-4,Morocco *,6,0.0
+4,Morocco,34,0.0
 4,Netherlands,420,0.0
 4,New Zealand,1313,0.0
 4,Nicaragua,818,0.0
@@ -334,8 +332,7 @@ Week,Country,Total Cases,Total Deaths
 5,China,6814,0.0
 5,Colombia,400,8.0
 5,Cook Island,1,0.0
-5,Costa Rica,811,6.0
-5,Costa Rica*,227,2.0
+5,Costa Rica,1038,8.0
 5,Cote d'Ivoire,8,0.0
 5,Croatia,1,0.0
 5,Cuba,238,0.0
