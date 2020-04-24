@@ -46,3 +46,22 @@ body {
 .btn .btn-primary .btn-lg {
     background-color: rgb(32, 71, 180);
 }
+
+#mobile {
+  visibility: hidden;
+}
+
+@media (max-width: 576px) {
+  .display-4 {
+    font-size: 48px;
+  }
+
+  #large {
+    visibility: hidden;
+    height:0;
+  }
+
+  #mobile {
+    visibility: visible;
+  }
+}
