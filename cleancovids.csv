@@ -162,7 +162,7 @@ Week,Country,Cases,Deaths
 1,Sweden,0,0
 1,Switzerland,0,0
 1,Syria,0,0
-1,Taiwan*,33,0
+1,Taiwan,33,0
 1,Tanzania,0,0
 1,Thailand,61,0
 1,Timor-Leste,0,0
@@ -347,7 +347,7 @@ Week,Country,Cases,Deaths
 2,Sweden,7,0
 2,Switzerland,0,0
 2,Syria,0,0
-2,Taiwan*,87,0
+2,Taiwan,87,0
 2,Tanzania,0,0
 2,Thailand,165,0
 2,Timor-Leste,0,0
@@ -532,7 +532,7 @@ Week,Country,Cases,Deaths
 3,Sweden,8,0
 3,Switzerland,0,0
 3,Syria,0,0
-3,Taiwan*,141,0
+3,Taiwan,141,0
 3,Tanzania,0,0
 3,Thailand,253,0
 3,Timor-Leste,0,0
@@ -717,7 +717,7 @@ Week,Country,Cases,Deaths
 4,Sweden,8,0
 4,Switzerland,0,0
 4,Syria,0,0
-4,Taiwan*,181,7
+4,Taiwan,181,7
 4,Tanzania,0,0
 4,Thailand,277,0
 4,Timor-Leste,0,0
@@ -902,7 +902,7 @@ Week,Country,Cases,Deaths
 5,Sweden,45,0
 5,Switzerland,63,0
 5,Syria,0,0
-5,Taiwan*,266,8
+5,Taiwan,266,8
 5,Tanzania,0,0
 5,Thailand,312,1
 5,Timor-Leste,0,0
@@ -1087,7 +1087,7 @@ Week,Country,Cases,Deaths
 6,Sweden,878,0
 6,Switzerland,1495,7
 6,Syria,0,0
-6,Taiwan*,349,8
+6,Taiwan,349,8
 6,Tanzania,0,0
 6,Thailand,374,8
 6,Timor-Leste,0,0
@@ -1272,7 +1272,7 @@ Week,Country,Cases,Deaths
 7,Sweden,6544,21
 7,Switzerland,11393,90
 7,Syria,0,0
-7,Taiwan*,450,8
+7,Taiwan,450,8
 7,Tanzania,2,0
 7,Thailand,777,8
 7,Timor-Leste,0,0
@@ -1457,7 +1457,7 @@ Week,Country,Cases,Deaths
 8,Sweden,14912,201
 8,Switzerland,56015,691
 8,Syria,8,0
-8,Taiwan*,1310,14
+8,Taiwan,1310,14
 8,Tanzania,69,0
 8,Thailand,4298,14
 8,Timor-Leste,4,0
@@ -1642,7 +1642,7 @@ Week,Country,Cases,Deaths
 9,Sweden,32034,1270
 9,Switzerland,122766,2802
 9,Syria,70,9
-9,Taiwan*,2396,28
+9,Taiwan,2396,28
 9,Tanzania,132,3
 9,Thailand,11635,68
 9,Timor-Leste,8,0
@@ -1827,7 +1827,7 @@ Week,Country,Cases,Deaths
 10,Sweden,61548,4550
 10,Switzerland,177003,6403
 10,Syria,146,16
-10,Taiwan*,2956,41
+10,Taiwan,2956,41
 10,Tanzania,192,10
 10,Thailand,17957,210
 10,Timor-Leste,9,0
@@ -2012,7 +2012,7 @@ Week,Country,Cases,Deaths
 11,Sweden,94532,9185
 11,Switzerland,209696,9669
 11,Syria,246,16
-11,Taiwan*,3142,48
+11,Taiwan,3142,48
 11,Tanzania,642,30
 11,Thailand,21009,337
 11,Timor-Leste,76,0
@@ -2197,7 +2197,7 @@ Week,Country,Cases,Deaths
 12,Sweden,60488,6822
 12,Switzerland,112015,5809
 12,Syria,162,12
-12,Taiwan*,1693,24
+12,Taiwan,1693,24
 12,Tanzania,962,37
 12,Thailand,11194,191
 12,Timor-Leste,87,0
