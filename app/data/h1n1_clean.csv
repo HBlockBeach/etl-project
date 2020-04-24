@@ -29,7 +29,6 @@ Week,Country,Total Cases,Total Deaths
 1,Israel,43,0.0
 1,Italy,101,0.0
 1,Japan,1740,0.0
-1,"Korea, Republic of",81,0.0
 1,Kuwait,72,0.0
 1,Malaysia,10,0.0
 1,Mexico,21691,403.0
@@ -41,6 +40,7 @@ Week,Country,Total Cases,Total Deaths
 1,Philippines,12,0.0
 1,Poland,15,0.0
 1,Portugal,5,0.0
+1,Republic of Korea,81,0.0
 1,Romania,3,0.0
 1,Russia,8,0.0
 1,Singapore,5,0.0
@@ -51,7 +51,7 @@ Week,Country,Total Cases,Total Deaths
 1,Thailand,10,0.0
 1,Turkey,10,0.0
 1,United Kingdom,716,0.0
-1,United States of America,34559,49.0
+1,United States,34559,49.0
 1,Uruguay,2,0.0
 2,Argentina,580,0.0
 2,Australia,2725,0.0
@@ -93,7 +93,6 @@ Week,Country,Total Cases,Total Deaths
 2,Italy,147,0.0
 2,Jamaica,10,0.0
 2,Japan,1575,0.0
-2,"Korea, Republic of",162,0.0
 2,Kuwait,72,0.0
 2,Lebanon,9,0.0
 2,Luxembourg,2,0.0
@@ -109,6 +108,7 @@ Week,Country,Total Cases,Total Deaths
 2,Philippines,94,0.0
 2,Poland,17,0.0
 2,Portugal,7,0.0
+2,Republic of Korea,162,0.0
 2,Romania,25,0.0
 2,Russia,12,0.0
 2,Saudi Arabia,2,0.0
@@ -122,7 +122,7 @@ Week,Country,Total Cases,Total Deaths
 2,Turkey,26,0.0
 2,United Arab Emirates,1,0.0
 2,United Kingdom,1554,0.0
-2,United States of America,43299,76.0
+2,United States,43299,76.0
 2,Uruguay,58,0.0
 2,Venezuela,13,0.0
 2,Vietnam,16,0.0
@@ -167,7 +167,6 @@ Week,Country,Total Cases,Total Deaths
 3,Jamaica,51,0.0
 3,Japan,2823,0.0
 3,Jordan,2,0.0
-3,"Korea, Republic of",284,0.0
 3,Kuwait,90,0.0
 3,Lebanon,43,0.0
 3,Luxembourg,6,0.0
@@ -185,6 +184,7 @@ Week,Country,Total Cases,Total Deaths
 3,Poland,34,0.0
 3,Portugal,12,0.0
 3,Qatar,3,0.0
+3,Republic of Korea,284,0.0
 3,Romania,60,0.0
 3,Russia,15,0.0
 3,Samoa,1,0.0
@@ -201,7 +201,7 @@ Week,Country,Total Cases,Total Deaths
 3,Ukraine,5,0.0
 3,United Arab Emirates,5,0.0
 3,United Kingdom,5012,1.0
-3,United States of America,57506,126.0
+3,United States,57506,126.0
 3,United States of America*,17855,44.0
 3,Uruguay,156,0.0
 3,Venezuela,120,0.0
@@ -260,7 +260,6 @@ Week,Country,Total Cases,Total Deaths
 4,Jamaica,71,0.0
 4,Japan,3482,0.0
 4,Jordan,45,0.0
-4,"Korea, Republic of",446,0.0
 4,Kuwait,100,0.0
 4,Laos,9,0.0
 4,Latvia,2,0.0
@@ -284,6 +283,7 @@ Week,Country,Total Cases,Total Deaths
 4,Poland,46,0.0
 4,Portugal,24,0.0
 4,Qatar,31,0.0
+4,Republic of Korea,446,0.0
 4,Romania,74,0.0
 4,Russia,12,0.0
 4,Samoa,4,0.0
@@ -305,7 +305,7 @@ Week,Country,Total Cases,Total Deaths
 4,Ukraine,4,0.0
 4,United Arab Emirates,13,0.0
 4,United Kingdom,10810,4.0
-4,United States of America,82202,305.0
+4,United States,82202,305.0
 4,Uruguay,462,0.0
 4,Vanuatu,3,0.0
 4,Venezuela,419,0.0
@@ -362,8 +362,7 @@ Week,Country,Total Cases,Total Deaths
 5,Iceland,16,0.0
 5,India,401,0.0
 5,Indonesia,44,0.0
-5,Iran,3,0.0
-5,"Iran, Islamic Republic",1,0.0
+5,Iran,4,0.0
 5,Iraq,44,0.0
 5,Ireland,205,0.0
 5,Israel,2233,0.0
@@ -372,7 +371,6 @@ Week,Country,Total Cases,Total Deaths
 5,Japan,5714,0.0
 5,Jordan,83,0.0
 5,Kenya,28,0.0
-5,"Korea, Republic of",808,0.0
 5,Kuwait,134,0.0
 5,Laos,14,0.0
 5,Latvia,4,0.0
@@ -392,6 +390,7 @@ Week,Country,Total Cases,Total Deaths
 5,Netherlands,573,0.0
 5,New Zealand,3269,3.0
 5,Nicaragua,1199,0.0
+5,North Macedonia,2,0.0
 5,Norway,145,0.0
 5,Oman,13,0.0
 5,Palau,2,0.0
@@ -403,6 +402,7 @@ Week,Country,Total Cases,Total Deaths
 5,Poland,73,0.0
 5,Portugal,97,0.0
 5,Qatar,53,0.0
+5,Republic of Korea,808,0.0
 5,Romania,129,0.0
 5,Russia,12,0.0
 5,Saint Lucia,3,0.0
@@ -420,7 +420,6 @@ Week,Country,Total Cases,Total Deaths
 5,Switzerland,253,0.0
 5,Syria,1,0.0
 5,Thailand,5678,13.0
-5,The former Yugoslav Republic of Macedonia,2,0.0
 5,Trinidad and Tobago,224,0.0
 5,Tunisia,13,0.0
 5,Turkey,139,0.0
@@ -428,7 +427,7 @@ Week,Country,Total Cases,Total Deaths
 5,Ukraine,4,0.0
 5,United Arab Emirates,32,0.0
 5,United Kingdom,25800,10.0
-5,United States of America,123257,594.0
+5,United States,123257,594.0
 5,Uruguay,780,6.0
 5,Vanuatu,8,0.0
 5,Venezuela,775,0.0
