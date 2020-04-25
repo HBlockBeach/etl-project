@@ -36,7 +36,7 @@ The disease data needed to be denormalized.
 2. Year of data added for join on population density
 3. Disease_id added for joins/disease identification in joined datasets
 
-#### Population Density
+#### Population Density:
 The population density data contained data in one row. In order to be used, it needed to be transformed into a new configuration 
 
 1. Data was manipulated to change the structure:
@@ -51,14 +51,20 @@ US,                   2009,                   20<br>
 US,                   2020,                   30<br>
 
 
-#### Table Creation
+#### Table Creation:
 Two key tables were created.
 1. Country, each unique country in the datasets was assigned a unique id
 2. Disease, each unique disease in the datasets was assigned a unique id
 
 
 # ***LOAD***
-tables
+### Tables:
+1. Country
+* Coulmns:
+1. Country
+2. Country_ID
+
+
 PGadmin
 relational
 why?
