@@ -16,7 +16,7 @@
 # ***TRANSFORM***
 ### Cleaning:
 #### Disease Data:
-The raw disease data contained information about key statistics (cases, deaths, recoveries) for the affected countries on a day by day basis. Several enhanbements were needed to make the data usable for analysis. 
+The raw disease data contained information about key statistics (cases, deaths, recoveries) for the affected countries on a day by day basis. Several enhancements were needed to make the data usable for analysis. 
 
 1. Stray characters were removed from the dataset 
 2. Country names were standardized across datasets
@@ -32,7 +32,7 @@ The raw population density data contains a wide range of data including country 
 #### Disease Data:
 The disease data needed to be denormalized. 
 
-1. County_id added and country column dropped 
+1. Country_id added and country column dropped 
 2. Year of data added for join on population density
 3. Disease_id added for joins/disease identification in joined datasets
 
@@ -65,18 +65,11 @@ Two key tables were created.
 * covid19
 * h1n1
 * sars
- * [/app/data/ERD](app/data/erd.JPG)
- ![ERD](app/data/erd.JPG "ERD")
 
-
-
-
-
-
-
-
-
+ERD can be viewed [here](https://github.com/HBlockBeach/etl-project/blob/master/app/data/erd.JPG)
 
 PGadmin
 relational
 why?
+
+kjj
