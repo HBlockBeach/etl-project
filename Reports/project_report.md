@@ -32,7 +32,7 @@ The raw population density data contains a wide range of data including country 
 #### Disease Data:
 The disease data needed to be denormalized. 
 
-1. County_id added and country column dropped 
+1. Country_id added and country column dropped 
 2. Year of data added for join on population density
 3. Disease_id added for joins/disease identification in joined datasets
 
