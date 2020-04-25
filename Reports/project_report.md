@@ -51,7 +51,10 @@ US,                   2009,                   20<br>
 US,                   2020,                   30<br>
 
 
-
+#### Table Creation
+Two key tables were created.
+1. Country, each unique country in the datasets was assigned a unique id
+2. Disease, each unique disease in the datasets was assigned a unique id
 
 
 # ***LOAD***
