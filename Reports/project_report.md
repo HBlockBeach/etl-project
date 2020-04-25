@@ -45,10 +45,10 @@ Country             2003                2009                2020<br>
 US                     10                    20                    30<br>
 
 * Updated Structure **fake data**:<br>
-Counrty           Year                  Density
-US                   2003                   10
-US                   2009                   20
-US                   2020                   30
+Counrty           Year                  Density  <br>
+US                   2003                   10 <br>
+US                   2009                   20<br>
+US                   2020                   30<br>
 
 
 
