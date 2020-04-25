@@ -1,4 +1,4 @@
-,Disease_NM,Disease_ID
-0,SARS,1
-1,H1N1,2
-2,COVID19,3
+Disease_ID,Disease_NM
+1,SARS
+2,H1N1
+3,COVID19
