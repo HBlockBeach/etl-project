@@ -2,10 +2,10 @@
 <br>
 <br>
 ## Team:<br>
-###*Ryan Klueg
-###*Hunter Block-Beach
-###*Sean Atkins
-###*Kafui Al
+### *Ryan Klueg
+### *Hunter Block-Beach
+### *Sean Atkins
+### *Kafui Al
 <br>
 <br>
 
