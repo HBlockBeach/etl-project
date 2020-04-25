@@ -65,17 +65,8 @@ Two key tables were created.
 * covid19
 * h1n1
 * sars
- * [/app/data/ERD](app/data/erd.JPG)
- ![ERD](app/data/erd.JPG "ERD")
 
-
-
-
-
-
-
-
-
+ERD can be viewed [here](https://github.com/HBlockBeach/etl-project/blob/master/app/data/erd.JPG)
 
 PGadmin
 relational
