@@ -1,11 +1,10 @@
 # <div align="center">**etl-project**<div> 
-<br>
-<br>
-## Team:<br>
-### *Ryan Klueg
-### *Hunter Block-Beach
-### *Sean Atkins
-### *Kafui Al
+
+##  Team:<br>
+### *Ryan Klueg<br>
+### *Hunter Block-Beach<br>
+### *Sean Atkins<br>
+### *Kafui Al<br>
 <br>
 <br>
 
