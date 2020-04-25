@@ -5,7 +5,7 @@
 * Hunter Block-Beach
 * Sean Atkins
 * Kafui Al
-### [More infomation about the team and the project can be accessed by clicking this link.] (https://hblockbeach.github.io/etl-project/)
+### More infomation about the team and the project can be accessed through the link below<br> (https://hblockbeach.github.io/etl-project/)
 
 
 
