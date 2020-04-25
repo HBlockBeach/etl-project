@@ -59,7 +59,7 @@ Two key tables were created.
 
 # ***LOAD***
 ### Tables:
-1. Country
+* Country
   * Country
   * Country_ID
 
