@@ -58,7 +58,7 @@
 * [/docs/](https://github.com/HBlockBeach/etl-project/tree/master/docs)
 1. Main Page HTML: index.html
 2. Team Page HTML: team.html
-* /docs/assets
+* [/docs/assets](hhttps://github.com/HBlockBeach/etl-project/tree/master/docs/assets)
 1. Main Page CSS: style.css
 2. Team Page CSS: team.css
 
