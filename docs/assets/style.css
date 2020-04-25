@@ -3,6 +3,14 @@ body {
     color: rgb(170, 188, 221);
 }
 
+h2 {
+  color: rgb(32, 71, 180)
+}
+
+hr{
+  border-top: 1px solid black;
+}
+
 ul, p {
   color: rgb(140, 134, 155);
 }
