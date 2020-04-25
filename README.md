@@ -14,7 +14,7 @@ From smallpox to typhoid, epidemics have plagued humans for all of history. In m
 
 Our objective is to collect data related to SARS, H1N1, and COVID19 in order to analyze infection rates in specific countries as well as compare the transmission and death rates among the diseases. 
 
-#### More infomation about the team and the project can be accessed through the link below<br> https://hblockbeach.github.io/etl-project/
+#### More infomation about the team and project can be accessed through the link below<br> https://hblockbeach.github.io/etl-project/
 
 
 ## Relevant Files:
