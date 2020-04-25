@@ -20,21 +20,21 @@
 ## Relevant Files:
 
 #### Raw Data:
-* /app/resources/
+* [/app/resources](https://github.com/HBlockBeach/etl-project/tree/master/app/resources)
 1. COVID19: covid_19_clean_complete.csv
 2. H1N1: h1n1.csv
 3. SARS: sars.csv
 4. Population Density: popdensity.csv
 
 #### Cleaned Data:
-* /app/data/
+* [/app/data/](https://github.com/HBlockBeach/etl-project/tree/master/app/data)
 1. COVID19: cleancovids.csv
 2. H1N1: h1n1_clean.csv
 3. SARS: sars_clean.csv
 4. Population Density: populationDensity.csv
 
 #### Jupyter Notebooks:
-* /app/
+* [/app/](https://github.com/HBlockBeach/etl-project/tree/master/app)
 1. COVID19 Clean.ipynb
 2. H1N1: h1n1_clean.ipynb
 3. SARS: sars_clean.ipynb
@@ -42,7 +42,8 @@
 5. Data Manipultion for PostGres: Tables.ipynb
 
 #### Manipulated Data for PostGres:
-* /app/data/postgres_files
+
+* [/app/data/postgres_files](https://github.com/HBlockBeach/etl-project/tree/master/app/data/postgres_files)
 1. COVID19: covid_final.csv
 2. H1N1: h1n1_final.csv
 3. SARS: sars_final.csv
@@ -51,13 +52,13 @@
 
 #### ERD:
 * /app/data/?
-1. ERD: 
+1. ERD:
 
 #### GitHub Pages Data:
-* /docs/
+* [/docs/](https://github.com/HBlockBeach/etl-project/tree/master/docs)
 1. Main Page HTML: index.html
 2. Team Page HTML: team.html
-* /docs/assets
+* [/docs/assets](https://github.com/HBlockBeach/etl-project/tree/master/docs/assets)
 1. Main Page CSS: style.css
 2. Team Page CSS: team.css
 
