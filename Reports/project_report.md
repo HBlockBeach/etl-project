@@ -60,7 +60,6 @@ Two key tables were created.
 # ***LOAD***
 ### Tables:
 1. Country
-* Coulmns:
   * Country
   * Country_ID
 
