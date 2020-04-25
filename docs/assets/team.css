@@ -5,3 +5,7 @@ hr {
 .card {
     color: black;
 }
+
+#first-row {
+    margin-top: 80px;
+}

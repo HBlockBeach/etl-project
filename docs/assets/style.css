@@ -1,10 +1,25 @@
 body {
     background-color: rgb(46, 47, 63);
+    color: rgb(170, 188, 221);
+}
+
+ul, p {
+  color: rgb(140, 134, 155);
+}
+
+p {
+  text-indent: 30px;
+}
+
+.lead {
+  color:black;
 }
 
 .jumbotron {
     position:relative;
     overflow:hidden;
+    color: black;
+    margin-top: 64px;
   }
   
   .jumbotron .container {
@@ -51,7 +66,7 @@ body {
   visibility: hidden;
 }
 
-@media (max-width: 576px) {
+@media (max-width: 1125px) {
   .display-4 {
     font-size: 48px;
   }
