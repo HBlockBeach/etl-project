@@ -49,7 +49,9 @@
 4. Population Density: pop_density_table.csv
 5. Country Table: country_table.csv
 
-
+#### ERD:
+* /app/data/?
+1. ERD: 
 
 #### GitHub Pages Data:
 * /docs/
