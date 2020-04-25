@@ -40,10 +40,16 @@ The disease data needed to be denormalized.
 The population density data contained data in one row. In order to be used, it needed to be transformed into a new configuration 
 
 1. Data was manipulated to change the structure:
-* Original Structure:
-| Tables        | Are           | Cool  | Cool  |
-| ------------- |:-------------:| -----:| -----:|
-| col 3 is      | right-aligned | $1600 | $1600 |
+* Original Structure **fake data**: <br>
+Country             2003                2009                2020<br>
+US                     10                    20                    30<br>
+
+* Updated Structure **fake data**:<br>
+Counrty           Year                  Density
+US                   2003                   10
+US                   2009                   20
+US                   2020                   30
+
 
 
 
