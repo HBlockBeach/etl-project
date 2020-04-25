@@ -60,8 +60,20 @@ Two key tables were created.
 # ***LOAD***
 ### Tables:
 * Country
-  * Country
-  * Country_ID
+* Disease
+* Population
+* covid19
+* h1n1
+* sars
+
+
+
+
+
+
+
+
+
 
 
 PGadmin
