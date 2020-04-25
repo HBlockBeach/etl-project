@@ -16,7 +16,7 @@
 # ***TRANSFORM***
 ### Cleaning:
 #### Disease Data:
-The raw disease data contained information about key statistics (cases, deaths, recoveries) for the affected countries on a day by day basis. Several enhanbements were needed to make the data usable for analysis. 
+The raw disease data contained information about key statistics (cases, deaths, recoveries) for the affected countries on a day by day basis. Several enhancements were needed to make the data usable for analysis. 
 
 1. Stray characters were removed from the dataset 
 2. Country names were standardized across datasets
