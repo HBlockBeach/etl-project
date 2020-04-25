@@ -61,8 +61,8 @@ Two key tables were created.
 ### Tables:
 1. Country
 * Coulmns:
-1. Country
-2. Country_ID
+  * Country
+  * Country_ID
 
 
 PGadmin
