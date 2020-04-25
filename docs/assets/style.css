@@ -3,7 +3,11 @@ body {
     color: rgb(170, 188, 221);
 }
 
-h2 {
+h1, h4 {
+  text-align:center;
+}
+
+h2, h4 {
   color: rgb(32, 71, 180)
 }
 
@@ -16,7 +20,17 @@ ul, p {
 }
 
 img {
-  width:100%;
+  width:75%;
+  margin-left: auto;
+  margin-right: auto;
+  display:block;
+}
+
+.container-fluid {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  display:block;
 }
 
 .lead {
