@@ -12,10 +12,20 @@
 #### Worldometer:
 1. Population Density 2020, web scrape 
 
+
 # ***TRANSFORM***
 ### Cleaning:
-<p> The raw disease data contained information about key statistics (cases, deaths, recoveries) for the affected countries on a day by day basis. </p>
-transfomation
+#### Disease Data:
+The raw disease data contained information about key statistics (cases, deaths, recoveries) for the affected countries on a day by day basis. Several enhanbements were needed to make the data usable for analysis. 
+
+1. Stray characters were removed from the dataset 
+2. Country names were standardized across datasets
+3. Data was grouped by week since disease onset to normalize the datasets to one another allowing the analyst to compare apples to apples 
+
+
+
+
+### Transfomation
 
 # ***LOAD***
 tables
