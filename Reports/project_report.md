@@ -71,3 +71,5 @@ ERD can be viewed [here](https://github.com/HBlockBeach/etl-project/blob/master/
 PGadmin
 relational
 why?
+
+kjj
