@@ -1,4 +1,4 @@
-# Extract 
+# ***Extract*** 
 ### Data Sources
 #### Kaggle: 
 1. COVID-19, csv
@@ -12,11 +12,12 @@
 #### Worldometer:
 1. Population Density 2020, web scrape 
 
-# TRANSFORM
-cleaning
+# ***TRANSFORM***
+### Cleaning:
+<p> The raw disease data contained information about key statistics (cases, deaths, recoveries) for the affected countries on a day by day basis. </p>
 transfomation
 
-# LOAD
+# ***LOAD***
 tables
 PGadmin
 relational
