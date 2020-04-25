@@ -65,7 +65,8 @@ Two key tables were created.
 * covid19
 * h1n1
 * sars
-
+ * [/app/data/ERD](app/data/erd.JPG)
+ ![ERD](app/data/erd.JPG "ERD")
 
 
 
