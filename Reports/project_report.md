@@ -66,7 +66,7 @@ Two key tables were created.
 * h1n1
 * sars
  * [/app/data/ERD](app/data/erd.JPG)
- ![ERD](app/data/erd.JPG "ERD")
+ ![ERD](../app/data/erd.JPG "ERD")
 
 
 
