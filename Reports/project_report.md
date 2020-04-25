@@ -41,14 +41,14 @@ The population density data contained data in one row. In order to be used, it n
 
 1. Data was manipulated to change the structure:
 * Original Structure **fake data**: <br>
-Country             2003                2009                2020<br>
-US                     10                    20                    30<br>
+Country,             2003,                2009,                2020<br>
+US,                     10,                    20,                    30<br>
 
 * Updated Structure **fake data**:<br>
-Counrty           Year                  Density  <br>
-US                   2003                   10 <br>
-US                   2009                   20<br>
-US                   2020                   30<br>
+Country,           Year ,                 Density  <br>
+US,                   2003,                   10 <br>
+US,                   2009,                   20<br>
+US,                   2020,                   30<br>
 
 
 
