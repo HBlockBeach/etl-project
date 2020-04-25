@@ -18,7 +18,7 @@
 
 
 ## Relevant Files:
-
+[I'm an inline-style link](https://www.google.com)
 #### Raw Data:
 * /app/resources/
 1. COVID19: covid_19_clean_complete.csv
@@ -51,7 +51,7 @@
 
 #### ERD:
 * /app/data/?
-1. ERD: 
+1. ERD:
 
 #### GitHub Pages Data:
 * /docs/
