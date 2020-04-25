@@ -1,12 +1,10 @@
-# etl-project
-
-# <div align="center">**etl-project**<div> 
+# <div align="center">**Pandæmonium**<div> 
 
 ## Team:
-* Kafui Ahedor
-* Sean Atkins
-* Hunter Block-Beach
-* Ryan Klueg
+* [Kafui Ahedor](https://github.com/kafui001)
+* [Sean Atkins](https://github.com/SMAtkins)
+* [Hunter Block-Beach](https://github.com/HBlockBeach)
+* [Ryan Klueg](https://github.com/coconutpep)
 
 
 
@@ -22,21 +20,21 @@
 ## Relevant Files:
 
 #### Raw Data:
-* /app/resources/
+* [/app/resources/](app/resources)
 1. COVID19: covid_19_clean_complete.csv
 2. H1N1: h1n1.csv
 3. SARS: sars.csv
 4. Population Density: popdensity.csv
 
 #### Cleaned Data:
-* /app/data/
+* [/app/data/](app/data)
 1. COVID19: cleancovids.csv
 2. H1N1: h1n1_clean.csv
 3. SARS: sars_clean.csv
 4. Population Density: populationDensity.csv
 
 #### Jupyter Notebooks:
-* /app/
+* [/app/](app)
 1. COVID19 Clean.ipynb
 2. H1N1: h1n1_clean.ipynb
 3. SARS: sars_clean.ipynb
@@ -44,7 +42,7 @@
 5. Data Manipultion for PostGres: Tables.ipynb
 
 #### Manipulated Data for PostGres:
-* /app/data/postgres_files
+* [/app/data/postgres_files](app/data/postgres_files)
 1. COVID19: covid_final.csv
 2. H1N1: h1n1_final.csv
 3. SARS: sars_final.csv
@@ -52,13 +50,13 @@
 5. Country Table: country_table.csv
 
 #### ERD:
-* /app/data/?
-1. ERD: 
+* [/app/data/ERD](app/data/erd.JPG)
+![ERD](app/data/erd.JPG "ERD")
 
 #### GitHub Pages Data:
-* /docs/
+* [/docs/](docs)
 1. Main Page HTML: index.html
 2. Team Page HTML: team.html
-* /docs/assets
+* [/docs/assets](docs/assets)
 1. Main Page CSS: style.css
 2. Team Page CSS: team.css

@@ -4,8 +4,22 @@ hr {
 
 .card {
     color: black;
+    width: 25%;
+    margin-right: auto;
+    margin-left:auto;
 }
 
 #first-row {
     margin-top: 80px;
+}
+
+#second-row {
+    margin-top:30px;
+}
+
+@media (max-width: 576px) {
+    .card {
+        width: 75%;
+        margin-bottom: 20px;
+    }
 }
