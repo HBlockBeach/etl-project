@@ -22,10 +22,31 @@ The raw disease data contained information about key statistics (cases, deaths, 
 2. Country names were standardized across datasets
 3. Data was grouped by week since disease onset to normalize the datasets to one another allowing the analyst to compare apples to apples 
 
+#### Population Density Data:
+The raw population density data contains a wide range of data including country codes, land, area, and year over year changes. Many of these columns were unecessary and there were many extra countries. 
+
+1. Extraneous columns were removed
+2. Countries not in the data were removed
+
+### Transfomation:
+#### Disease Data:
+The disease data needed to be denormalized. 
+
+1. County_id added and country column dropped 
+2. Year of data added for join on population density
+3. Disease_id added for joins/disease identification in joined datasets
+
+#### Population Density
+The population density data contained data in one row. In order to be used, it needed to be transformed into a new configuration 
+
+1. Data was manipulated to change the structure:
+* Original Structure:
+| Tables        | Are           | Cool  | Cool  |
+| ------------- |:-------------:| -----:| -----:|
+| col 3 is      | right-aligned | $1600 | $1600 |
 
 
 
-### Transfomation
 
 # ***LOAD***
 tables
