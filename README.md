@@ -15,7 +15,40 @@ Our objective is to collect data related to SARS, H1N1, and COVID19 in order to 
 
 
 ## Relevant Files:
+
 #### Raw Data:
+* /app/resources/
+1. COVID19: covid_19_clean_complete.csv
+2. H1N1: h1n1.csv
+3. SARS: sars.csv
+4. Population Density: popdensity.csv
+
+#### Cleaned Data:
+* /app/data/
+1. COVID19: cleancovids.csv
+2. H1N1: h1n1_clean.csv
+3. SARS: sars_clean.csv
+4. Population Density: populationDensity.csv
+
+#### Jupyter Notebooks:
+* /app/
+1. COVID19 Clean.ipynb
+2. H1N1: h1n1_clean.ipynb
+3. SARS: sars_clean.ipynb
+4. Population Density: popden.ipynb
+5. Data Manipultion for PostGres: Tables.ipynb
+
+#### Manipulated Data for PostGres:
+* /app/data/postgres_files
+1. COVID19: covid_final.csv
+2. H1N1: h1n1_final.csv
+3. SARS: sars_final.csv
+4. Population Density: pop_density_table.csv
+5. Country Table: country_table.csv
+
+
+
+#### Cleaned Data:
 * /app/data/
 1. COVID19 cleancovids.csv
 2. H1N1: h1n1_clean.csv
