@@ -2,15 +2,19 @@
 <html lang='en-us'>
 
     <head>
-        <head>
+
             <meta charset="UTF-8">
             <meta name="viewport" content="width=device-width, initial-scale=1.0">
             <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
             <link rel="stylesheet" type="text/css" href="assets/style.css">
             <link rel='stylesheet' type='text/css' href='assets/report.css'>
-        </head>
-    </head>
+            <!--___________________________________________________________________-->
+            <!-- Bootstrap core CSS -->
+            <!--<link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">-->
 
+              <!--___________________________________________________________________-->
+    </head>
+   <!--
     <body>
         <nav class="navbar navbar-expand-lg navbar-dark bg-dark" >
             <a class="navbar-brand" href="index.html">Pandæmonium</a>
@@ -24,7 +28,30 @@
                 </li>
               </ul>
             </div>
+        </nav> -->
+
+        <!--___________________________________________________________________-->
+        <!-- Navigation -->
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" id="mainNav">
+          <div class="container">
+            <a class="navbar-brand js-scroll-trigger" href="index.html">Pandæmonium</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarResponsive">
+              <ul class="navbar-nav ml-auto">
+                <li class="nav-item">
+                  <a class="nav-link js-scroll-trigger" href="team.html">Team</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link js-scroll-trigger" href="report.html">Report</a>
+                </li>
+              </ul>
+            </div>
+          </div>
         </nav>
+        <!--___________________________________________________________________-->
+
 
         <div class='row' id='first-row'>
             <div class='container-fluid'>
@@ -58,7 +85,7 @@
                 </ul>
               </div>
         </div>
-        
+
         <hr>
 
         <div class='row'>
@@ -156,7 +183,16 @@
                 <a href='assets/images/erd.JPG'><img class='img-fluid' src='assets/images/erd.JPG' alt='ERD'></a>
             </div>
         </div>
+        <!--___________________________________________________________________-->
+            <script src="vendor/jquery/jquery.min.js"></script>
+            <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 
+            <!-- Plugin JavaScript -->
+            <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+
+            <!-- Custom JavaScript for this theme -->
+            <script src="js/scrolling-nav.js"></script>
+        <!--___________________________________________________________________-->
     </body>
 
 </html>

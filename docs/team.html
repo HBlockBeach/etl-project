@@ -2,16 +2,21 @@
 <html lang='en-us'>
 
     <head>
-        <head>
+
             <meta charset="UTF-8">
             <meta name="viewport" content="width=device-width, initial-scale=1.0">
             <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
             <link rel="stylesheet" type="text/css" href="assets/style.css">
             <link rel="stylesheet" type="text/css" href="assets/team.css">
-        </head>
+            <!--___________________________________________________________________-->
+            <!-- Bootstrap core CSS -->
+            <!--<link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">-->
+
+              <!--___________________________________________________________________-->
     </head>
 
     <body>
+      <!--
       <nav class="navbar navbar-expand-lg navbar-dark bg-dark" >
         <a class="navbar-brand" href="index.html">Pandæmonium</a>
         <div class="navbar">
@@ -24,8 +29,28 @@
             </li>
           </ul>
         </div>
+    </nav> -->
+    <!--___________________________________________________________________-->
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" id="mainNav">
+      <div class="container">
+        <a class="navbar-brand js-scroll-trigger" href="index.html">Pandæmonium</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="team.html">Team</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="report.html">Report</a>
+            </li>
+          </ul>
+        </div>
+      </div>
     </nav>
-
+    <!--___________________________________________________________________-->
         <div class="row" id='first-row'>
           <div class='container-fluid'>
             <h1>Data Cleaning Team</h1>
@@ -48,7 +73,7 @@
                 <h5 class="card-title">Sean Atkins</h5>
                 <p class="card-text">Provided data cleaning for COVID-19, our largest, infection and death dataset</p>
                 <a href="https://github.com/SMAtkins" target='_new' class="btn btn-primary">Sean's Work</a>
-              </div>     
+              </div>
           </div>
         </div>
 
@@ -63,7 +88,7 @@
             <img class="card-img-top" src="assets/images/hunter.jpeg" alt="Hunter Block-Beach">
             <div class="card-body">
               <h5 class="card-title">Hunter Block-Beach</h5>
-
+              <p class="card-text">Denormalized data schema and added unique ids allowing analysts to join data as needed for specific analysis.</p>
               <a href="https://github.com/HBlockBeach" target='_new' class="btn btn-primary">Hunter's Work</a>
             </div>
           </div>
@@ -71,11 +96,23 @@
             <img class="card-img-top" src="assets/images/kafui.jpg" alt="Kafui Ahedor">
             <div class="card-body">
               <h5 class="card-title">Kafui Ahedor</h5>
-
+              <p class="card-text">Mapping of the data tables' relationships and creation of the ERD used for mapping creation of the tables and schema.<br>
+              Secondarily did work for development of the Pandæmonium website.</p>
               <a href="https://github.com/kafui001" target='_new' class="btn btn-primary">Kafui's Work</a>
             </div>
           </div>
         </div>
+
+        <!--___________________________________________________________________-->
+            <script src="vendor/jquery/jquery.min.js"></script>
+            <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+            <!-- Plugin JavaScript -->
+            <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+
+            <!-- Custom JavaScript for this theme -->
+            <script src="js/scrolling-nav.js"></script>
+        <!--___________________________________________________________________-->
     </body>
 
 </html>
