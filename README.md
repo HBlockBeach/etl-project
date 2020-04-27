@@ -55,8 +55,9 @@
 
 #### SQL:
 * [/app/sql](app/sql)
-1. Schema
-2. View
+1. Schema: schema.md
+2. View: view_sql.md
+3. Sample Query: sample_query.md
 
 #### GitHub Pages Data:
 * [/docs/](docs)
