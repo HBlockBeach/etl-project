@@ -66,7 +66,7 @@ Two key tables were created.
 * h1n1
 * sars
 
-ERD can be viewed [here](https://github.com/HBlockBeach/etl-project/blob/master/app/data/erd.JPG)
+ERD can be viewed [here](https://github.com/HBlockBeach/etl-project/blob/master/app/data/erd_final.jpg)
 
 Data was loaded into a postgres database using pgAdmin 4. A relational database structure was chosen due to the growth potential of this database. This will allow for a key value system to be utilized in order to have simpler, more effecting data schemas. <br>
 
