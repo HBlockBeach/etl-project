@@ -2,65 +2,65 @@
 
 
 
-CREATE VIEW pandemics_combined AS
+CREATE VIEW pandemics_combined AS<br>
 
-SELECT 
+SELECT <br>
 
-country.country_id AS "Country_ID"
-,country.country AS "Country_Name"
-,disease.disease_id AS "Disease_ID"
-,disease.disease AS "Disease_Name"
-,covid19.week AS "Weeks"
-,covid19.cases AS "Cases"
-,covid19.deaths AS "Deaths"
-,covid19.year AS "Year"
+country.country_id AS "Country_ID"<br>
+,country.country AS "Country_Name"<br>
+,disease.disease_id AS "Disease_ID"<br>
+,disease.disease AS "Disease_Name"<br>
+,covid19.week AS "Weeks"<br>
+,covid19.cases AS "Cases"<br>
+,covid19.deaths AS "Deaths"<br>
+,covid19.year AS "Year"<br>
 
-FROM public.country
+FROM public.country<br>
 
-JOIN public.covid19
-    ON covid19.country_id = country.country_id
+JOIN public.covid19<br>
+    ON covid19.country_id = country.country_id<br>
     
-JOIN public.disease
-    ON covid19.disease_id = disease.disease_id
+JOIN public.disease<br>
+    ON covid19.disease_id = disease.disease_id<br>
     
-UNION 
+UNION <br>
 
-SELECT 
+SELECT <br>
 
-country.country_id 
-,country.country 
-,disease.disease_id 
-,disease.disease 
-,h1n1.week 
-,h1n1.cases 
-,h1n1.deaths
-,h1n1.year 
+country.country_id <br>
+,country.country <br>
+,disease.disease_id <br>
+,disease.disease <br>
+,h1n1.week <br>
+,h1n1.cases <br>
+,h1n1.deaths<br>
+,h1n1.year <br>
 
-FROM public.country
+FROM public.country<br>
 
-JOIN public.h1n1
-    ON h1n1.country_id = country.country_id
+JOIN public.h1n1<br>
+    ON h1n1.country_id = country.country_id<br>
     
-JOIN public.disease
-    ON h1n1.disease_id = disease.disease_id
+JOIN public.disease<br>
+    ON h1n1.disease_id = disease.disease_id<br>
     
-UNION
+UNION<br>
 
-SELECT 
+SELECT <br>
 
-country.country_id 
-,country.country 
-,disease.disease_id 
-,disease.disease 
-,sars.week 
-,sars.cases 
-,sars.deaths 
-,sars.year 
+country.country_id <br>
+,country.country <br>
+,disease.disease_id <br>
+,disease.disease <br>
+,sars.week <br>
+,sars.cases <br>
+,sars.deaths <br>
+,sars.year <br>
 
-FROM public.country
+FROM public.country <br>
 
-JOIN public.sars
-    ON sars.country_id = country.country_id
+JOIN public.sars<br>
+    ON sars.country_id = country.country_id<br>
     
-JOIN public.disease
-    ON sars.disease_id = disease.disease_id
+JOIN public.disease<br>
+    ON sars.disease_id = disease.disease_id<br>
