@@ -50,8 +50,8 @@
 5. Country Table: country_table.csv
 
 #### ERD:
-* [/app/data/ERD](app/data/erd.JPG)
-![ERD](app/data/erd.JPG "ERD")
+* [/app/data/ERD](app/data/erd_final.jpg)
+![ERD](app/data/erd_final.jpg "ERD")
 
 #### GitHub Pages Data:
 * [/docs/](docs)
