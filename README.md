@@ -53,6 +53,11 @@
 * [/app/data/ERD](app/data/erd_final.jpg)
 ![ERD](app/data/erd_final.jpg "ERD")
 
+#### SQL:
+* [/app/sql](app/sql)
+1. Schema
+2. View
+
 #### GitHub Pages Data:
 * [/docs/](docs)
 1. Main Page HTML: index.html
