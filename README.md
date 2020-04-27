@@ -53,6 +53,12 @@
 * [/app/data/ERD](app/data/erd_final.jpg)
 ![ERD](app/data/erd_final.jpg "ERD")
 
+#### SQL:
+* [/app/sql](app/sql)
+1. Schema: schema.md
+2. View: view_sql.md
+3. Sample Query: sample_query.md
+
 #### GitHub Pages Data:
 * [/docs/](docs)
 1. Main Page HTML: index.html

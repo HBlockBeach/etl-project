@@ -68,8 +68,6 @@ Two key tables were created.
 
 ERD can be viewed [here](https://github.com/HBlockBeach/etl-project/blob/master/app/data/erd.JPG)
 
-PGadmin
-relational
-why?
+Data was loaded into a postgres database using pgAdmin 4. A relational database structure was chosen due to the growth potential of this database. This will allow for a key value system to be utilized in order to have simpler, more effecting data schemas. <br>
 
-kjj
+In the long run, as data is loaded, this structure also allows for multiple spellings or categorizations of countries to be assigned the same country id and help cut down on data clean up. 
